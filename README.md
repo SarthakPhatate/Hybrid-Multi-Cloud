@@ -1,5 +1,8 @@
 # Hybrid-Multi-Cloud
-Automating the task of launching instance ,creating ebs and attching it, hosting the app on AWS using Terraform
+Task Assigned during the Hybrid Multi Cloud Training under LinuxWorld 
 
-Check out the whole article here
-<p>https://www.linkedin.com/pulse/automating-process-launching-webapplication-aws-using-sarthak-phatate
+### Task 1: [Automating the task of Launching the Web Application using the Terraform and Jenkins.]
+[Linkedin Article](https://www.linkedin.com/pulse/automating-task-launching-web-application-using-jenkins-phatate/)
+
+### Task 2: [Automating the task of Launching the Web Application using the Terraform.]
+[Linkedin Article](https://www.linkedin.com/pulse/automating-task-launching-web-application-using-sarthak-phatate/)
